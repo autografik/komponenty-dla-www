@@ -1,0 +1,1 @@
+Prosta stopka pozycjonowana zawsze u dołu okna przeglądarki.
